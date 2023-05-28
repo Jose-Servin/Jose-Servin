@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [AllThingsServin](AllThingsServin)
-
 - 📫 How to reach me **servinjose96@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
