@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jose Servin</h1>
+<h1 align="center">Howdy 👋, I'm Jose Servin</h1>
 <h3 align="center">A self-taught Software Engineer interested in Python Automation and Web Development.</h3>
 
 - 🔭 I’m currently working on [AllThingsServin](https://github.com/Jose-Servin/AllThingsServin)
