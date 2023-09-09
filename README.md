@@ -3,7 +3,7 @@
 
 - 👨🏽‍💻 I’m currently working on [AllThingsServinV2](https://github.com/Jose-Servin/AllThingsServinV2)
 
-- 📚 I’m currently learning **Django** and studying for the **AWS Cloud Practitioner** exam.
+- 📚 I’m currently learning **JavaScript** and studying for the **SnowPro Core Certification** exam.
 
 - 📫 How to reach me **servinjose96@gmail.com**
 
