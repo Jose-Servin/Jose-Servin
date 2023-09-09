@@ -1,7 +1,7 @@
 <h1 align="center">Howdy 👋, I'm Jose Servin</h1>
 <h3 align="center">A self-taught Software Engineer interested in Python Automation and Web Development.</h3>
 
-- 👨🏽‍💻 I’m currently working on [AllThingsServin](https://github.com/Jose-Servin/AllThingsServin)
+- 👨🏽‍💻 I’m currently working on [AllThingsServinV2](https://github.com/Jose-Servin/AllThingsServinV2)
 
 - 📚 I’m currently learning **Django** and studying for the **AWS Cloud Practitioner** exam.
 
