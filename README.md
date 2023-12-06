@@ -3,7 +3,7 @@
 
 - 👨🏽‍💻 I’m currently working on [AllThingsFullStack](https://github.com/Jose-Servin/AllThingsFullStack)
 
-- 📚 I’m currently learning **JavaScript** and studying for the **SnowPro Core Certification** exam.
+- 📚 I’m currently learning **JavaScript** and studying for the **AWS Cloud Practitioner Certification** exam.
 
 - 📫 How to reach me **servinjose96@gmail.com**
 
