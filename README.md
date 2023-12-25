@@ -1,9 +1,11 @@
 <h1 align="center">Howdy 👋, I'm Jose Servin</h1>
-<h3 align="center">A self-taught Software Engineer interested in Python Automation and Data Engineering.</h3>
+<h3 align="center">A self-taught Software Engineer interested in Python Automations and Data Engineering.</h3>
 
 - 👨🏽‍💻 I’m currently working on [AllThingsDocker](https://github.com/Jose-Servin/AllThingsDocker)
 
-- 📚 I’m currently reading **Fundamentals Of Data Engineering** by Reis & Housley and studying for the **AWS Cloud Practitioner Certification** exam.
+- 📚 I’m currently reading **Fundamentals Of Data Engineering** by Reis & Housley.
+
+- 🧠 I'm currently studying for the **AWS Cloud Practitioner Certification** exam.
 
 - 📫 How to reach me **servinjose96@gmail.com**
 
