@@ -1,5 +1,5 @@
 <h1 align="center">Howdy 👋, I'm Jose Servin</h1>
-<h3 align="center">A self-taught Software Engineer interested in Python Automations and Data Engineering.</h3>
+<h3 align="center">Self-taught Software Engineer, currently working as a Data Engineer.</h3>
 
 - 👨🏽‍💻 I’m currently working on [AllThingsDataEngineering](https://github.com/Jose-Servin/AllThingsDataEngineering)
 
