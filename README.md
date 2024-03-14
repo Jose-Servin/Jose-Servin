@@ -1,9 +1,9 @@
 <h1 align="center">Howdy 👋, I'm Jose Servin</h1>
 <h3 align="center">Self-taught Software Engineer, currently working as a Data Engineer.</h3>
 
-- 👨🏽‍💻 I’m currently working on [AllThingsDataEngineering](https://github.com/Jose-Servin/AllThingsDataEngineering)
+- 👨🏽‍💻 I’m currently working on [dbtV2](https://github.com/Jose-Servin/dbtV2)
 
-- 📚 I’m currently reading **Fundamentals Of Data Engineering** by Reis & Housley.
+- 📚 I’m currently reading **Cloud FinOps** by J.R. Storment and Mike Fuller.
 
 - 🧠 I'm currently studying for the **AWS Cloud Practitioner Certification** exam.
 
