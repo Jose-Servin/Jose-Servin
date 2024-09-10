@@ -1,7 +1,7 @@
 <h1 align="center">Howdy 👋, I'm Jose Servin</h1>
 <h3 align="center">Self-taught Software Engineer, currently working as a Data Engineer.</h3>
 
-- 👨🏽‍💻 I’m currently working on various Projects and Notes in [PythonDeveloper](https://github.com/Jose-Servin/PythonDeveloper)
+- 👨🏽‍💻 I’m currently building [National Load Board](https://github.com/Jose-Servin/NLB)
 
 - 📚 I’m currently reading **Cloud FinOps** by J.R. Storment and Mike Fuller.
 
