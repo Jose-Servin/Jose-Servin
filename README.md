@@ -5,6 +5,6 @@
 
 - 📚 I’m currently reading **Cloud FinOps** by J.R. Storment and Mike Fuller.
 
-- 🧠 I'm currently studying for the **AWS Cloud Practitioner Certification** exam.
+- 🧠 I'm currently studying for the **SnowPro Advanced Architect** certification.
 
 - 📫 Connect with me on [LinkedIn](https://linkedin.com/in/jose-servin-68bb24113)
