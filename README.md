@@ -1,10 +1,10 @@
 <h1 align="center">Howdy 👋, I'm Jose Servin</h1>
-<h3 align="center">Self-taught Software Engineer, currently working as a Data Engineer.</h3>
+<h3 align="center">Data Engineer from 9-5, Django Enthusiast from 5-9</h3>
 
-- 👨🏽‍💻 I’m currently building [ReTrackLogistics](https://github.com/Jose-Servin/ReTrackLogistics)
+- 👨🏽‍💻 I’m currently building [ReTrack-Backend](https://github.com/Jose-Servin/ReTrack-Backend)
 
-- 📚 I’m currently reading **Cloud FinOps** by J.R. Storment and Mike Fuller.
+- 📚 I’m currently reading **The Data Warehouse Toolkit** by Kimball Ross.
 
-- 🧠 I'm currently studying for the **SnowPro Advanced Architect** certification.
+- 🧠 I'm currently studying for the **SnowPro Advanced Data Engineer** certification.
 
 - 📫 Connect with me on [LinkedIn](https://linkedin.com/in/jose-servin-68bb24113)
