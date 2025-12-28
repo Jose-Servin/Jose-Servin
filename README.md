@@ -1,7 +1,7 @@
 <h1 align="center">Howdy 👋, I'm Jose Servin</h1>
 <h3 align="center">On a mission to bridge Backend Development and Data Engineering.</h3>
 
-- 👨🏽‍💻 I’m currently building [ReTrackBackend](https://github.com/Jose-Servin/ReTrackBackend)
+- 👨🏽‍💻 I’m currently building [ReTrackLogistics](https://github.com/Jose-Servin/ReTrackLogistics)
 
 - 📚 I’m currently reading **The Data Warehouse Toolkit** by Kimball Ross.
 
